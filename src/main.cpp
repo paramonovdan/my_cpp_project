@@ -1,5 +1,6 @@
 #include <iostream>
+using namespace std;
 int main() {
-    std::cout << "Updated message!" << std::endl;
+    cout << "Updated message!" << std::endl;
      return 0;
     }
